@@ -17,7 +17,7 @@ JavaScript: For fetching and displaying cocktail data.
 
 TheCocktailDB API: Provides the cocktail data used by the app.
 
-Link to Live Site: 
+Link to Live Site: https://lenah-mbae.github.io/The-Cocktail-App/
 
 Copyright (c) 2025[Gakii Mbae]
 
